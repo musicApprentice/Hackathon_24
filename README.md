@@ -12,7 +12,7 @@ How to run:
 
 python getRotations.py - This will run the program on the Chopin excerpt by default
 
-python .\getRotations.py demo_scores\J.S._Bach_Invention_No._4_in_D_Minor.musicxml  - Enter the file path you want to run the program on, the bach is included as additional demo
+python .\getRotations.py demo_scores\J.S._Bach_Invention_No._4_in_D_Minor.musicxml  - Specify path; The Bach is included as extra demo
 
 NOTE: The program currently only works for right-hand passages and requires that all fingerings be filled in.
  
