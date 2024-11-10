@@ -1,3 +1,5 @@
+Piano_Technique_Analyzer is inspired by the work of Dorothy Taubman and her research into the bio-mechanical motions that enable prodigies and professional pianists to play well. One of her main discoveries was in forearm rotational motion at the piano; specifically in how forearm rotation allows players to move note to note with speed and ease. There are two types of rotations at the piano: single and double rotation. 
+
 Dependencies: 
 pip install music21
 
